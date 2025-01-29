@@ -7,7 +7,7 @@ Members:
 Role    Name             Student ID   GitHub Link <br>
 
 Leader: Dionysios Balasis 101543144   https://github.com/cypher1092<br>
-Member1: Please enter your info<br>
+Member1: Umair Hassan     101525582   https://github.com/UmairHassan701<br>
 Member2: Please enter your info<br>
 Member3: Please enter your info<br>
 <br>

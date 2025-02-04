@@ -21,3 +21,10 @@ collaborative Git workflows, branching strategies, and CI/CD integration.
 ## Setup Instructions<br>
 1. Clone the repository.<br>
 2. Switch to your branch using `git checkout STUDENTID-Name`.<br>
+3. Install any dependencies as listed.<br>
+## CI/CD Pipeline<br>
+The project utilizes GitHub Actions for continuous integration. The workflow is defined<br>
+in `.github/workflows/ci.yml`.<br>
+## Branching Strategy<br>
+Each member has their own branch named `STUDENTID-Name`. All changes are<br>
+merged into the `main` branch via Pull Requests.<br>

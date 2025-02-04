@@ -1,0 +1,5 @@
+DevOps is a collection of methods that integrate software development and IT operations to 
+provide a more efficient and smooth workflow. DevOps strives to increase communication, 
+cooperation, and integration among software delivery teams. Organizations that use DevOps can 
+gain faster time to market, increased customer satisfaction, lower costs, and improved performance.
+(source: https://flatrocktech.com/blog/the-role-of-devops-in-software-development)

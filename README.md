@@ -27,4 +27,4 @@ The project utilizes GitHub Actions for continuous integration. The workflow is 
 in `.github/workflows/ci.yml`.<br>
 ## Branching Strategy<br>
 Each member has their own branch named `STUDENTID-Name`. All changes are<br>
-merged into the `main` branch via Pull Requests.<br>
+merged into the `main` branch via Pull Requests.<br>To clone this repository: git clone https://github.com/cypher1092/COMP2156_Group29_Assignment.git

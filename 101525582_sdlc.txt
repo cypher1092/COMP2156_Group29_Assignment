@@ -1,1 +1,2 @@
 DevOps in SDLC.
+DevOps integrates Continuous Integration, Continuous Deployment, and automation.

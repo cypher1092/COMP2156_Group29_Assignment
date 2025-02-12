@@ -3,3 +3,6 @@ industry-standard tools such as CI/CD among many and that students are able to
 demonstrate the strategies and skills of using suitable DevOps tools. 
 Learning these is essential in today's IT industry as it bridges the gap 
 between software development (Dev) and IT operations (Ops).
+
+This also gives leverage to students in certain industries that require having DevOps
+skills or experience.

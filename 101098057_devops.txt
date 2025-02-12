@@ -1,0 +1,4 @@
+DevOps for System Administration is taught so students can analyze and 
+evaluate various developer operation and learn about data formats and types 
+such as but not limited to XML, YAML, and JSON. It is an essential skill to 
+develop to be successful in this course.

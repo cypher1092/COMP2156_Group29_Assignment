@@ -1,1 +1,2 @@
 DevOps is a course designed to teach students Development Operations.
+DevOps requires four credit hours.

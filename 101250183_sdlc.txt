@@ -1,0 +1,1 @@
+It enbales collaboration and coordinations between roles such as development, IT operations, Quality Engineering and security.
